@@ -1,6 +1,6 @@
 [user]
   name = Alexander Eklund
-  email = alexek1987@icloud.com
+	email = alexek1987@icloud.com
   username = alexek1987
 
 [color]
@@ -16,6 +16,7 @@
 
 [core]
   pager = less -FRSX
+	editor = '/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -n -w
 
 [alias]
   co = checkout
